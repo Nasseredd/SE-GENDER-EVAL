@@ -1,0 +1,8 @@
+{
+    "output-folder-path": "/srv/storage/talc3@storage4.nancy.grid5000.fr/multispeech/calcul/users/nmonir/corpora",
+    "noise-types": ["speech-shaped-noise"],
+    "speech-angles": [0],
+    "noise-angles": [45, 90],
+    "gains": [-5, 0, 5],
+    "models": ["tango", "fasnet", "mvdr"]
+}
